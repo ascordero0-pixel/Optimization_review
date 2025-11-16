@@ -1,1 +1,117 @@
+############################################################
+# Bibliometric pipeline
+# Author: Antonio Sánchez COrdero
+#Step_1: File configuration
+############################################################
+
+# ----Step_1.0: Clean environment and graphics----
+
+rm(list = ls())      # Remove all objects from workspace
+graphics.off()       # Close all open graphics devices
+
+# ----Step_1.1: Load (or install) bibliometrix----
+
+if (!requireNamespace("bibliometrix", quietly = TRUE)) {
+  install.packages("bibliometrix", dependencies = TRUE)  # Install if missing
+}
+library(bibliometrix)   # Load bibliometrix package
+
+# ----Step 1.2: Define file paths for WoS and Scopus exports----
+# IMPORTANT: replace the paths below with your real paths
+# WoS must be exported as: Web of Science Core Collection
+#   -> Export -> Plain text (or BibTeX/EndNote) 
+#   -> "Full Record and Cited References"
+
+wos_file    <- "C:/Users/usuario/OneDrive - ZER0CEM/ASC LAB/3_Revistas/2_Journal_2024_Control adaptativo de ventilación MODM y sensores/03_LR_New/LR/WOS_173_Full.txt"    # WoS plaintext file
+scopus_file <- "C:/Users/usuario/OneDrive - ZER0CEM/ASC LAB/3_Revistas/2_Journal_2024_Control adaptativo de ventilación MODM y sensores/03_LR_New/LR/SCO_134_Full.csv" # Scopus CSV file
+
+file.exists(wos_file)      # Should return TRUE
+file.exists(scopus_file)   # Should return TRUE
+
+# ----Step 1.3: Convert Web of Science file to bibliometrix data frame----
+
+M_wos <- convert2df(
+  file     = wos_file,      # Path to WoS file
+  dbsource = "wos",         # Database source = Web of Science
+  format   = "plaintext"    # File format = plain text
+)
+
+# Optional: print basic info about WoS data
+cat("WoS data frame dimensions (rows, columns):\n")
+print(dim(M_wos))
+
+# ----Step 1.4: Convert Scopus file to bibliometrix data frame----
+
+M_scopus <- convert2df(
+  file     = scopus_file,   # Path to Scopus CSV
+  dbsource = "scopus",      # Database source = Scopus
+  format   = "csv"          # File format = CSV
+)
+
+# Optional: print basic info about Scopus data
+cat("Scopus data frame dimensions (rows, columns):\n")
+print(dim(M_scopus))
+
+# ----Step 1.5: Check metadata completeness BEFORE merging----
+# This allows you to see which fields are available in each database
+# and their percentage of missing values.
+
+md_wos    <- missingData(M_wos)      # Metadata quality for WoS only
+md_scopus <- missingData(M_scopus)   # Metadata quality for Scopus only
+
+cat("\n==== METADATA QUALITY: WoS ====\n")
+print(md_wos)
+
+cat("\n==== METADATA QUALITY: Scopus ====\n")
+print(md_scopus)
+
+# ----Step 1.6.1: Merge WoS and Scopus into a single data frame----
+
+# mergeDbSources() automatically:
+# - harmonises field names,
+# - removes duplicated documents (same DOI / title, etc.),
+# - keeps a single unified collection.
+
+M_merged <- mergeDbSources(
+  M_wos,
+  M_scopus,
+  remove.duplicated = TRUE,  # Remove duplicated documents
+  verbose           = TRUE   # Print information about duplicates
+)
+
+cat("\nMerged data frame dimensions (rows, columns):\n")
+print(dim(M_merged))
+
+# ----Step 1.6.2: Restore cited references CR from CR_raw after merging----
+
+# NOTE: When multiple databases are merged, 
+# mergeDbSources() moves the original cited references to 'CR_raw' and sets 'CR' to "NA".
+# To keep using the original cited references, we copy CR_raw back.
+
+if ("CR_raw" %in% names(M_merged)) {
+  M_merged$CR <- M_merged$CR_raw   # Restore original cited references
+}
+
+# ----Step 1.7: Check metadata completeness AFTER merging----
+# Here you will see higher missing percentages in fields that exist
+# only in one database (e.g., CR, DE, ID, RP from WoS but not from Scopus).
+
+md_merged <- missingData(M_merged)
+
+cat("\n==== METADATA QUALITY: MERGED WoS + Scopus ====\n")
+print(md_merged)
+
+# ---- Step 1.8: Save merged collection as RData for Biblioshiny
+# You can load this file directly in Biblioshiny:
+#   Data -> Load -> bibliometrix RData object
+
+merged_path <- "C:/Users/usuario/OneDrive - ZER0CEM/ASC LAB/3_Revistas/2_Journal_2024_Control adaptativo de ventilación MODM y sensores/03_LR_New/LR.RData"
+
+save(M_merged, file = merged_path)   # Save merged data frame
+cat("\nMerged bibliometrix object saved to:\n", merged_path, "\n")
+
+#---- Step 1.9: Open biblioshiny and load the merged file
+library(bibliometrix)
+biblioshiny()
+
 
