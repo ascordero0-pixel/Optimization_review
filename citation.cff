@@ -7,6 +7,9 @@ authors:
 - family-names: "Gómez Melgar"
   given-names: "Sergio J."
   orcid: "https://orcid.org/0000-0003-0865-3607"
+- family-names: "Anduja Márquez"
+  given-names: "J. Manuel"
+  orcid: "https://orcid.org/0000-0002-0631-0021"
 title: "Optimization_literature review"
 version: 1.0.0
 doi: 10.5281/zenodo.1234
