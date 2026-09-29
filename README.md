@@ -2,7 +2,7 @@
 
 Reproducibility repository for the systematic review:
 
-> Sánchez Cordero, A., Gómez Melgar, S., & Andújar Márquez, J. M. (2026). *From design optimization to adaptive control: a systematic review of natural and mixed-mode ventilation for indoor air quality, thermal comfort and energy efficiency*.
+> Sánchez Cordero, A., Gómez Melgar, S., & Andújar Márquez, J. M. *From design optimization to adaptive control: a systematic review of natural and mixed-mode ventilation for indoor air quality, thermal comfort and energy efficiency*. Manuscript in preparation.
 
 The repository contains the R pipeline, auxiliary lists and coded data used to (i) identify, screen and select the corpus (hybrid PRISMA 2020 / SPAR-4-SLR protocol), (ii) prepare the corpus for semantic clustering in TALL (Reinert DHC, k = 6), (iii) derive the taxonomy reported in Table 3 and (iv) compute the descriptive results.
 
@@ -11,7 +11,7 @@ The repository contains the R pipeline, auxiliary lists and coded data used to (
 
 ## Repository structure
 
-All scripts read and write files in the repository root through relative paths. The flat layout is kept deliberately so that the archived scripts are identical to those that produced the published results. Set the working directory to the repository root before running any script.
+All scripts read and write files in the repository root through relative paths. The flat layout is kept deliberately so that the archived scripts are identical to those that produced the results reported in the manuscript. Set the working directory to the repository root before running any script.
 
 | Group | Files |
 |---|---|
@@ -53,7 +53,7 @@ All scripts read and write files in the repository root through relative paths. 
 
 | Result | Reproducible from archived files | How |
 |---|---|---|
-| Table 3 (taxonomy) | Yes | Run `LR_S8_Taxonomy.R`; block S8.14 checks 20 anchors of the published table |
+| Table 3 (taxonomy) | Yes | Run `LR_S8_Taxonomy.R`; block S8.14 checks 20 anchors of Table 3 as reported in the manuscript |
 | Descriptive results and Figures (S12) | Yes | Run `LR_S11_Descriptive results.R` |
 | Steps 1–7 (search, screening, cleaning) | Requires re-export from WoS and Scopus | See *Third-party content* |
 
@@ -114,4 +114,4 @@ Please cite the archived version via its Zenodo DOI (see `CITATION.cff`):
 
 ## Contact
 
-Antonio Sánchez Cordero — TEP192, Universidad de Huelva — antonio.sanchez443@alu.uhu.es — ORCID 0000-0002-2637-4364
+Antonio Sánchez Cordero — TEP192, Universidad de Huelva — a.cordero@zerocem.es — ORCID 0000-0002-2637-4364
