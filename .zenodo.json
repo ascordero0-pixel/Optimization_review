@@ -1,0 +1,46 @@
+{
+  "title": "Optimization_review: R pipeline and data for a systematic review of natural and mixed-mode ventilation for indoor air quality, thermal comfort and energy efficiency",
+  "upload_type": "software",
+  "description": "<p>Reproducibility package for the systematic review <em>From design optimization to adaptive control: a systematic review of natural and mixed-mode ventilation for indoor air quality, thermal comfort and energy efficiency</em> (manuscript in preparation). It contains the R pipeline (LR_S1–LR_S11) implementing a hybrid PRISMA 2020 / SPAR-4-SLR protocol, the inputs and outputs of the Reinert DHC clustering performed in TALL, the taxonomy underlying Table 3 with an automated regression check against the values reported in the manuscript, the manual full-text extraction form (82 documents) and the descriptive results. Full texts of the corpus documents are not included.</p>",
+  "creators": [
+    {
+      "name": "Sánchez Cordero, Antonio",
+      "affiliation": "TEP192, Universidad de Huelva",
+      "orcid": "0000-0002-2637-4364"
+    },
+    {
+      "name": "Gómez Melgar, Sergio",
+      "affiliation": "TEP192, Universidad de Huelva",
+      "orcid": "0000-0003-0865-3607"
+    },
+    {
+      "name": "Andújar Márquez, José Manuel",
+      "affiliation": "TEP192, Universidad de Huelva",
+      "orcid": "0000-0002-0631-0021"
+    }
+  ],
+  "keywords": [
+    "natural ventilation",
+    "mixed-mode ventilation",
+    "indoor air quality",
+    "thermal comfort",
+    "energy efficiency",
+    "systematic literature review",
+    "PRISMA 2020",
+    "SPAR-4-SLR",
+    "bibliometrics",
+    "R"
+  ],
+  "license": "MIT",
+  "access_right": "open",
+  "language": "eng",
+  "version": "1.0.0",
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/ascordero0-pixel/Optimization_review",
+      "relation": "isSupplementTo",
+      "resource_type": "software"
+    }
+  ],
+  "notes": "Code under MIT licence; data and outputs under CC BY 4.0 (see LICENSE-DATA)."
+}
