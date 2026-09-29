@@ -2,7 +2,7 @@
 
 Reproducibility repository for the systematic review:
 
-> Sánchez Cordero, A., Gómez Melgar, S., & Andújar Márquez, J. M. (2026). *From design optimization to adaptive control: a systematic review of natural and mixed-mode ventilation for indoor air quality, thermal comfort and energy efficiency*. Manuscript submitted to *Building and Environment*.
+> Sánchez Cordero, A., Gómez Melgar, S., & Andújar Márquez, J. M. (2026). *From design optimization to adaptive control: a systematic review of natural and mixed-mode ventilation for indoor air quality, thermal comfort and energy efficiency*.
 
 The repository contains the R pipeline, auxiliary lists and coded data used to (i) identify, screen and select the corpus (hybrid PRISMA 2020 / SPAR-4-SLR protocol), (ii) prepare the corpus for semantic clustering in TALL (Reinert DHC, k = 6), (iii) derive the taxonomy reported in Table 3 and (iv) compute the descriptive results.
 
