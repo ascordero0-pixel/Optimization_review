@@ -1,0 +1,37 @@
+# R session files
+.Rhistory
+*.Rhistory
+.RData
+.Rproj.user/
+*.Rproj
+
+# Office temp files
+~$*
+*.tmp
+
+# Third-party licensed content (never commit)
+WOS_*.txt
+SCO_*.csv
+*.ris
+*.tall
+Step_*.RData
+Step_1_*
+Step_2_*
+Step_3_final_corpus*
+Step_3_gates_*
+Step_4_*
+Step_5_*
+Step_6_*
+*.pdf
+!alluvial_diagram.pdf
+
+# Working folders
+99_EN REVISIÓN/
+Recoding/
+LR_NV Optimization Claude/
+Claude outputs/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
