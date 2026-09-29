@@ -1,0 +1,25 @@
+"cluster","pattern","count"
+1,"CFD simulation",30
+1,"Machine learning / Deep learning",26
+1,"Genetic Algorithm/NSGA",13
+1,"Model Predictive Control (MPC)",11
+1,"Multi-objective optimisation",5
+1,"Energy simulation",2
+1,"Rule-based control",1
+1,"Fuzzy inference/control",1
+3,"Multi-objective optimisation",8
+3,"Energy simulation",6
+3,"CFD simulation",4
+3,"Machine learning / Deep learning",2
+3,"Genetic Algorithm/NSGA",1
+5,"Energy simulation",12
+5,"Rule-based control",9
+5,"Model Predictive Control (MPC)",6
+5,"Multi-objective optimisation",6
+5,"CFD simulation",4
+5,"Machine learning / Deep learning",1
+5,"Fuzzy inference/control",1
+5,"Reinforcement learning",1
+6,"CFD simulation",6
+6,"Energy simulation",5
+6,"Genetic Algorithm/NSGA",2

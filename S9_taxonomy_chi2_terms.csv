@@ -1,0 +1,120 @@
+"term","freq_cluster","pct_cluster","chi2","pvalue","sign","cluster"
+"computational fluid dynamic",13,68.4,88.7,"0.000","positive",1
+"fluid",13,68.4,88.7,"0.000","positive",1
+"cfd",13,61.9,78,"0.000","positive",1
+"dynamic",17,47.2,72.3,"0.000","positive",1
+"deep",6,100,58.5,"0.000","positive",1
+"neural",6,100,58.5,"0.000","positive",1
+"algorithm",10,58.8,54.5,"0.000","positive",1
+"genetic algorithm",7,77.8,51.8,"0.000","positive",1
+"-ii",5,100,46.8,"0.000","positive",1
+"mechanism",5,100,46.8,"0.000","positive",1
+"nsga -ii",5,100,46.8,"0.000","positive",1
+"network",6,75,41.2,"0.000","positive",1
+"sort",5,83.3,37.6,"0.000","positive",1
+"ema",4,100,35.2,"0.000","positive",1
+"ensembled",4,100,35.2,"0.000","positive",1
+"ml",4,100,35.2,"0.000","positive",1
+"modelume",5,71.4,31,"0.000","positive",1
+"machine learning",4,80,26.8,"0.000","positive",1
+"framework",6,50,24.1,"0.000","positive",1
+"dnn",3,100,23.7,"0.000","positive",1
+"interactive",3,100,23.7,"0.000","positive",1
+"lstm",3,100,23.7,"0.000","positive",1
+"multill",5,55.6,22.2,"0.000","positive",1
+"prediction",5,55.6,22.2,"0.000","positive",1
+"couple",4,57.1,17.3,"0.000","positive",1
+"key",4,57.1,17.3,"0.000","positive",1
+"mpc",4,57.1,17.3,"0.000","positive",1
+"predictive",4,50,14.3,"0.000","positive",1
+"optimization",10,23.8,12.8,"0.000","positive",1
+"dcv",3,60,12.3,"0.000","positive",1
+"dominat",3,60,12.3,"0.000","positive",1
+"short",3,60,12.3,"0.000","positive",1
+"specifically",3,60,12.3,"0.000","positive",1
+"chimney",7,100,361.6,"0.000","positive",2
+"solar chimney",7,100,361.6,"0.000","positive",2
+"photocatalytic",3,100,124.3,"0.000","positive",2
+"hybrid",5,31.2,69.7,"0.000","positive",2
+"earth",2,40,25,"0.000","positive",2
+"evaporative",2,40,25,"0.000","positive",2
+"sc",2,40,25,"0.000","positive",2
+"review",3,21.4,22.9,"0.000","positive",2
+"pollutant",3,20,21,"0.000","positive",2
+"investigation",2,33.3,20.3,"0.000","positive",2
+"windcatcher",2,33.3,20.3,"0.000","positive",2
+"integrat",2,28.6,17,"0.000","positive",2
+"point",2,28.6,17,"0.000","positive",2
+"passive ventilation",2,25,14.5,"0.000","positive",2
+"remain",2,22.2,12.6,"0.000","positive",2
+"energy efficiency",28,71.8,29.2,"0.000","positive",3
+"educational building",17,89.5,28.2,"0.000","positive",3
+"quality",71,51.4,27.4,"0.000","positive",3
+"efficiency",33,64.7,26.3,"0.000","positive",3
+"indoor environmental quality",16,88.9,26,"0.000","positive",3
+"environment",34,59.6,21.3,"0.000","positive",3
+"indoor air quality",42,54.5,19.6,"0.000","positive",3
+"assessment",14,77.8,16.6,"0.000","positive",3
+"environmental",28,58.3,16,"0.000","positive",3
+"building",70,44,12.9,"0.000","positive",3
+"hot",11,73.3,10.9,"0.001","positive",3
+"policymaker",4,100,144.2,"0.000","positive",4
+"guidelin",3,60,56.7,"0.000","positive",4
+"insight",3,50,46.5,"0.000","positive",4
+"sustainability",2,66.7,34,"0.000","positive",4
+"promote",3,37.5,33.7,"0.000","positive",4
+"educational",4,26.7,33.5,"0.000","positive",4
+"provide",4,21.1,25.1,"0.000","positive",4
+"architect",2,50,24.8,"0.000","positive",4
+"evidence",2,50,24.8,"0.000","positive",4
+"practice",2,50,24.8,"0.000","positive",4
+"finding",4,20,23.6,"0.000","positive",4
+"offer",3,20,15.8,"0.000","positive",4
+"behavioral",2,33.3,15.6,"0.000","positive",4
+"decision",2,28.6,13,"0.000","positive",4
+"inform",2,28.6,13,"0.000","positive",4
+"overall",2,28.6,13,"0.000","positive",4
+"strategie",2,28.6,13,"0.000","positive",4
+"energy saving",13,92.9,23.8,"0.000","positive",5
+"saving",14,87.5,22.9,"0.000","positive",5
+"potential",30,60,20.7,"0.000","positive",5
+"demand",22,64.7,18.4,"0.000","positive",5
+"operation",15,71.4,15.6,"0.000","positive",5
+"climate change",9,90,14.7,"0.000","positive",5
+"may",9,90,14.7,"0.000","positive",5
+"control",31,52.5,13.7,"0.000","positive",5
+"single-",7,100,13.4,"0.000","positive",5
+"system",52,45.2,12.7,"0.000","positive",5
+"mmv",9,81.8,11.9,"0.001","positive",5
+"show",18,60,11.8,"0.001","positive",5
+"save",21,56.8,11.8,"0.001","positive",5
+"discomfort",10,76.9,11.7,"0.001","positive",5
+"adjust",6,100,11,"0.001","positive",5
+"concentration",33,78.6,50.7,"0.000","positive",6
+"classroom",34,59.6,26.7,"0.000","positive",6
+"open",18,78.3,26.3,"0.000","positive",6
+"window",36,57.1,25.1,"0.000","positive",6
+"velocity",14,82.4,22.2,"0.000","positive",6
+"co2",20,66.7,20.3,"0.000","positive",6
+"season",8,100,17.1,"0.000","positive",6
+"degree",14,70,15.4,"0.000","positive",6
+"opening",17,63,14.6,"0.000","positive",6
+"door",8,88.9,13.6,"0.000","positive",6
+"envelope",8,88.9,13.6,"0.000","positive",6
+"indicate",12,70.6,13.2,"0.000","positive",6
+"winter",11,73.3,13.1,"0.000","positive",6
+"or",16,61.5,12.8,"0.000","positive",6
+"ratio",14,63.6,12.1,"0.001","positive",6
+"adjustment",6,100,12,"0.001","positive",6
+"exceed",6,100,12,"0.001","positive",6
+"meter",6,100,12,"0.001","positive",6
+"negative",6,100,12,"0.001","positive",6
+"p.pm.",6,100,12,"0.001","positive",6
+"high",27,50,11.8,"0.001","positive",6
+"summer",13,65,11.7,"0.001","positive",6
+"close",7,87.5,11.2,"0.001","positive",6
+"observe",7,87.5,11.2,"0.001","positive",6
+"pmv",7,87.5,11.2,"0.001","positive",6
+"pressure",7,87.5,11.2,"0.001","positive",6
+"could",8,80,10.9,"0.001","positive",6
+"air velocity",9,75,10.9,"0.001","positive",6

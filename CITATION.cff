@@ -1,0 +1,36 @@
+cff-version: 1.2.0
+message: "If you use this software or data, please cite it using the metadata below."
+type: software
+title: "Optimization_review: R pipeline and data for a systematic review of natural and mixed-mode ventilation for indoor air quality, thermal comfort and energy efficiency"
+version: 1.0.0
+date-released: 2026-09-29
+license:
+  - MIT
+  - CC-BY-4.0
+repository-code: "https://github.com/ascordero0-pixel/Optimization_review"
+# doi: 10.5281/zenodo.XXXXXXX   # uncomment after the first Zenodo release (concept DOI)
+authors:
+  - family-names: "Sánchez Cordero"
+    given-names: "Antonio"
+    email: "a.cordero@zerocem.es"
+    affiliation: "TEP192, Universidad de Huelva"
+    orcid: "https://orcid.org/0000-0002-2637-4364"
+  - family-names: "Gómez Melgar"
+    given-names: "Sergio"
+    affiliation: "TEP192, Universidad de Huelva"
+    orcid: "https://orcid.org/0000-0003-0865-3607"
+  - family-names: "Andújar Márquez"
+    given-names: "José Manuel"
+    affiliation: "TEP192, Universidad de Huelva"
+    orcid: "https://orcid.org/0000-0002-0631-0021"
+keywords:
+  - natural ventilation
+  - mixed-mode ventilation
+  - indoor air quality
+  - thermal comfort
+  - energy efficiency
+  - systematic literature review
+  - PRISMA 2020
+  - SPAR-4-SLR
+  - bibliometrics
+  - R

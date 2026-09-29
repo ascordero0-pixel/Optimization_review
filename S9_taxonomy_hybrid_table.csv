@@ -1,0 +1,46 @@
+"cluster","label","primary_rq","n_segments","n_docs","top5_chi2_terms","key_optim_objectives","ventilation_types","building_typologies","optimisation_methods","optim_source","doc_ids"
+1,"CFD & computational optimisation","RQ3",30,16,"computational fluid dynamic (χ²=88.7); fluid (χ²=88.7); cfd (χ²=78); dynamic (χ²=72.3); deep (χ²=58.5)","CO2/IAQ control (n=26);
+Energy consumption/saving (n=8);
+Thermal comfort (PMV/PPD) (n=7)","Natural ventilation (n=14);
+Hybrid/mixed-mode (n=6);
+Wind-driven (n=3)","General / unspecified (n=20);
+Residential buildings (n=6);
+High-rise buildings (n=3)","CFD simulation (n=30);
+Machine learning / Deep learning (n=26);
+Genetic Algorithm/NSGA (n=13)","segment patterns","doc_01, doc_03, doc_04, doc_08, doc_12, doc_16, doc_19, doc_20, doc_21, doc_23, doc_24, doc_32, doc_37, doc_61, doc_64, doc_67"
+2,"Passive & hybrid cooling strategies","RQ2",7,3,"chimney (χ²=361.6); solar chimney (χ²=361.6); photocatalytic (χ²=124.3); hybrid (χ²=69.7); earth (χ²=25)","Passive cooling (n=18);
+CO2/IAQ control (n=4);
+Thermal comfort (PMV/PPD) (n=4)","Buoyancy-driven (n=11);
+Hybrid/mixed-mode (n=5);
+Wind-driven (n=3)","Schools / classrooms (n=3)",NA,NA,"doc_15, doc_36, doc_47"
+3,"IEQ & energy efficiency in educational buildings","RQ1 + RQ4",129,61,"energy efficiency (χ²=29.2); educational building (χ²=28.2); quality (χ²=27.4); efficiency (χ²=26.3); indoor environmental quality (χ²=26)","CO2/IAQ control (n=145);
+Thermal comfort (PMV/PPD) (n=95);
+Energy consumption/saving (n=66)","Natural ventilation (n=66);
+Hybrid/mixed-mode (n=27);
+Mechanical ventilation (n=16)","General / unspecified (n=154);
+Schools / classrooms (n=61);
+Residential buildings (n=24)","Multi-objective optimisation (n=8);
+Energy simulation (n=6);
+CFD simulation (n=4)","segment patterns","doc_01, doc_02, doc_04, doc_06, doc_07, doc_08, doc_09, doc_10, doc_13, doc_14, doc_15, doc_16, doc_17, doc_19, doc_20, doc_21, doc_23, doc_25, doc_26, doc_29, doc_30, doc_31, doc_32, doc_33, doc_34, doc_35, doc_36, doc_40, doc_42, doc_43, doc_44, doc_45, doc_46, doc_48, doc_49, doc_51, doc_52, doc_53, doc_54, doc_56, doc_57, doc_58, doc_60, doc_61, doc_62, doc_63, doc_67, doc_68, doc_69, doc_70, doc_71, doc_72, doc_73, doc_74, doc_75, doc_76, doc_77, doc_79, doc_80, doc_81, doc_82"
+4,"Sustainability policy & design practice","RQ4",9,8,"policymaker (χ²=144.2); guidelin (χ²=56.7); insight (χ²=46.5); sustainability (χ²=34); promote (χ²=33.7)","Sustainability/policy (n=9);
+CO2/IAQ control (n=1);
+Indoor environmental quality (n=1)","Natural ventilation (n=2)","General / unspecified (n=5);
+Schools / classrooms (n=3)",NA,NA,"doc_01, doc_10, doc_13, doc_45, doc_52, doc_67, doc_70, doc_71"
+5,"Energy demand & operational control","RQ2 + RQ3",122,55,"energy saving (χ²=23.8); saving (χ²=22.9); potential (χ²=20.7); demand (χ²=18.4); operation (χ²=15.6)","Thermal comfort (PMV/PPD) (n=62);
+CO2/IAQ control (n=50);
+Energy consumption/saving (n=44)","Natural ventilation (n=43);
+Hybrid/mixed-mode (n=33);
+Mechanical ventilation (n=24)","General / unspecified (n=91);
+Residential buildings (n=10);
+Office buildings (n=8)","Energy simulation (n=12);
+Rule-based control (n=9);
+Model Predictive Control (MPC) (n=6)","segment patterns","doc_01, doc_02, doc_03, doc_06, doc_08, doc_09, doc_11, doc_13, doc_16, doc_17, doc_21, doc_22, doc_23, doc_24, doc_25, doc_26, doc_27, doc_28, doc_29, doc_31, doc_34, doc_35, doc_37, doc_38, doc_39, doc_40, doc_42, doc_43, doc_44, doc_46, doc_47, doc_48, doc_49, doc_50, doc_51, doc_53, doc_55, doc_56, doc_57, doc_59, doc_60, doc_61, doc_63, doc_64, doc_67, doc_69, doc_70, doc_71, doc_72, doc_74, doc_75, doc_78, doc_79, doc_80, doc_82"
+6,"CO2 monitoring & window control in classrooms","RQ1 + RQ2",121,51,"concentration (χ²=50.7); classroom (χ²=26.7); open (χ²=26.3); window (χ²=25.1); velocity (χ²=22.2)","CO2/IAQ control (n=133);
+Thermal comfort (PMV/PPD) (n=69);
+Energy consumption/saving (n=12)","Natural ventilation (n=25);
+Window-based (n=22);
+Hybrid/mixed-mode (n=9)","Schools / classrooms (n=78);
+General / unspecified (n=39);
+Residential buildings (n=6)","CFD simulation (n=6);
+Energy simulation (n=5);
+Genetic Algorithm/NSGA (n=2)","segment patterns","doc_01, doc_02, doc_03, doc_04, doc_05, doc_06, doc_08, doc_09, doc_10, doc_13, doc_15, doc_16, doc_18, doc_19, doc_22, doc_25, doc_26, doc_27, doc_30, doc_31, doc_33, doc_40, doc_41, doc_43, doc_44, doc_45, doc_46, doc_47, doc_48, doc_50, doc_51, doc_54, doc_55, doc_58, doc_59, doc_60, doc_61, doc_62, doc_63, doc_65, doc_66, doc_68, doc_69, doc_73, doc_75, doc_76, doc_77, doc_78, doc_79, doc_80, doc_81"

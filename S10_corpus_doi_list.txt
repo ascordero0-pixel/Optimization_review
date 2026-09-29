@@ -1,0 +1,88 @@
+===========================================
+CORPUS DOI LIST — Full-text access check
+Generated: 2026-05-15 08:49:51.305277
+Total records: 82
+===========================================
+
+doc_01 | 2025 | a coupled computational fluid dynamics and back-propagati... | https://doi.org/10.1016/j.buildenv.2025.112681
+doc_02 | 2023 | a framework for rapid diagnosis of natural ventilation ef... | https://doi.org/10.1080/15435075.2022.2100706
+doc_03 | 2019 | a holistic framework to utilize natural ventilation to op... | https://doi.org/10.1016/j.buildenv.2019.02.027
+doc_04 | 2016 | a holistic passive design approach to optimize indoor env... | https://doi.org/10.1016/j.energy.2016.07.058
+doc_05 | 2024 | a method to optimize dormitory environments based on pers... | https://doi.org/10.3390/buildings14072111
+doc_06 | 2019 | a multi-objective optimization model for determining the ... | https://doi.org/10.1016/j.energy.2019.02.035
+doc_07 | 2021 | a novel methodological framework for the optimisation of ... | https://doi.org/10.1016/j.solener.2021.07.008
+doc_08 | 2025 | a novel wall windcatcher (wwc) natural ventilation system... | https://doi.org/10.1016/j.buildenv.2025.113307
+doc_09 | 2015 | a review of reinforcement learning applications to contro... | https://doi.org/10.1016/j.enbuild.2015.04.033
+doc_10 | 2025 | a simulation-based study of classroom iaq and thermal com... | https://doi.org/10.3390/buildings15121992
+doc_11 | 2019 | achieving natural ventilation potential in practice: cont... | https://doi.org/10.1016/j.apenergy.2018.11.016
+doc_12 | 2023 | adaptive model predictive control with ensembled multi-ti... | https://doi.org/10.1016/j.buildenv.2023.110519
+doc_13 | 2025 | an energy-efficient approach for thermal comfort and slee... | https://doi.org/10.3390/su17062432
+doc_14 | 2016 | an exhaustive parametric study on major passive design st... | https://doi.org/10.1016/j.egypro.2016.06.065
+doc_15 | 2021 | an experimental investigation on the passive ventilation ... | https://doi.org/10.1016/j.renene.2021.05.004
+doc_16 | 2023 | an occupant-centric control strategy for indoor thermal c... | https://doi.org/10.1016/j.enbuild.2023.112899
+doc_17 | 2024 | application of an architect-friendly digital design appro... | https://doi.org/10.3390/en17236097
+doc_18 | 2023 | controlling and limiting infection risk, thermal discomfo... | https://doi.org/10.3390/en16020592
+doc_19 | 2025 | coupled heat and mass transfer analysis for indoor air qu... | https://doi.org/10.1016/j.applthermaleng.2025.126019
+doc_20 | 2024 | data-driven prediction of indoor airflow distribution in ... | https://doi.org/10.1177/17442591231219025
+doc_21 | 2025 | data-driven prediction of indoor airflow distribution in ... | https://doi.org/10.3390/su17010058
+doc_22 | 2022 | design and development of a nearable wireless system to c... | https://doi.org/10.3390/en15228456
+doc_23 | 2020 | dynamic metrics of natural ventilation cooling effectiven... | https://doi.org/10.1016/j.buildenv.2020.106994
+doc_24 | 2023 | dynamic rule-based change-over ventilation strategy with ... | https://doi.org/10.1016/j.buildenv.2023.110966
+doc_25 | 2024 | educational environments' energy demand optimization base... | https://doi.org/10.1016/j.buildenv.2024.112121
+doc_26 | 2023 | effective improvement of a local thermal environment usin... | https://doi.org/10.1007/s12273-023-0992-6
+doc_27 | 2021 | effects of climate change on thermal comfort and energy d... | https://doi.org/10.3390/buildings11120595
+doc_28 | 2020 | energy and environmental analysis of single-family houses... | https://doi.org/10.3390/en13112740
+doc_29 | 2025 | energy implications of meeting indoor air quality and the... | https://doi.org/10.1016/j.enbuild.2024.115076
+doc_30 | 2024 | evaluation of air quality and thermal comfort in universi... | https://doi.org/10.3390/atmos15050586
+doc_31 | 2025 | exploring hybrid ventilation in cold climates: energy eff... | https://doi.org/10.3389/fbuil.2025.1606399
+doc_32 | 2017 | exploring hybrid ventilation in cold climates: energy eff... | https://doi.org/10.3390/en10020231
+doc_33 | 2025 | exploring hybrid ventilation in cold climates: energy eff... | https://doi.org/10.1038/s41598-025-01362-y
+doc_34 | 2024 | exploring hybrid ventilation in cold climates: energy eff... | https://doi.org/10.1177/18479790241307464
+doc_35 | 2016 | from simulation to monitoring: evaluating the potential o... | https://doi.org/10.1016/j.enbuild.2016.06.054
+doc_36 | 2025 | hybrid solar chimneys: enhancing thermal comfort and alle... | https://doi.org/10.1016/j.solener.2025.113442
+doc_37 | 2020 | hybrid grey box modelling of indoor air quality and therm... | https://doi.org/10.3390/atmos11010110
+doc_38 | 2022 | impact of climate change on energy saving potentials of n... | https://doi.org/10.1016/j.buildenv.2021.108662
+doc_39 | 2020 | impact of climate change on energy saving potentials of n... | https://doi.org/10.3390/en13205332
+doc_40 | 2025 | improving classroom air quality and ventilation with iot-... | https://doi.org/10.1016/j.scitotenv.2025.179543
+doc_41 | 2022 | improving indoor air quality in primary school buildings ... | https://doi.org/10.1016/j.jobe.2022.105324
+doc_42 | 2018 | improving classroom air quality and ventilation with iot-... | https://doi.org/10.3390/buildings8060075
+doc_43 | 2017 | indoor air quality and thermal comfort optimization in cl... | https://doi.org/10.1016/j.enbuild.2017.01.017
+doc_44 | 2019 | indoor air quality assessment: comparison of ventilation ... | https://doi.org/10.3390/en12244607
+doc_45 | 2025 | indoor air quality assessment: comparison of ventilation ... | https://doi.org/10.1038/s41598-025-98602-y
+doc_46 | 2024 | indoor environmental quality improvement in green buildin... | https://doi.org/10.3390/su16219160
+doc_47 | 2021 | integrated solar - windcatcher with dew-point indirect ev... | https://doi.org/10.1016/j.applthermaleng.2021.116654
+doc_48 | 2025 | integrating occupant behavior into window design: a dynam... | https://doi.org/10.3390/buildings15132193
+doc_49 | 2021 | interaction between thermal comfort, indoor air quality a... | https://doi.org/10.3390/buildings11120591
+doc_50 | 2022 | introducing extended natural ventilation index for buildi... | https://doi.org/10.1016/j.buildenv.2022.109688
+doc_51 | 2018 | investigation of the energy comsuption and indoor environ... | https://doi.org/10.1016/j.buildenv.2018.07.022
+doc_52 | 2024 | linking occupant behavior and window design through post-... | https://doi.org/10.3390/buildings14061638
+doc_53 | 2025 | machine learning based multi-objective optimisation of en... | https://doi.org/10.1016/j.buildenv.2024.112255
+doc_54 | 2018 | method to integrate radiant cooling with hybrid ventilati... | https://doi.org/10.3390/buildings8050069
+doc_55 | 2023 | mixed-mode ventilation based on adjustable air velocity f... | https://doi.org/10.3390/en16062746
+doc_56 | 2017 | natural ventilation for passive cooling by means of optim... | https://doi.org/10.1016/j.proeng.2017.04.245
+doc_57 | 2026 | occupancy-based zone-level vav system control implication... | https://doi.org/10.1016/j.applthermaleng.2025.129032
+doc_58 | 2025 | occupant-centric multicriteria optimization of hybrid per... | https://doi.org/10.1016/j.enbuild.2025.115494
+doc_59 | 2022 | open-plan office design for improved natural ventilation ... | https://doi.org/10.1177/1420326x20953458
+doc_60 | 2016 | opening performance simulation in natural ventilation usi... | https://doi.org/10.1016/j.egypro.2016.10.196
+doc_61 | 2025 | optimal control strategy for a cutting-edge hybrid ventil... | https://doi.org/10.1016/j.buildenv.2024.112295
+doc_62 | 2020 | optimal design of green buildings using computational flu... | https://doi.org/10.1007/s13762-019-02403-6
+doc_63 | 2025 | optimal fresh air distribution control strategy for multi... | https://doi.org/10.1016/j.applthermaleng.2025.127696
+doc_64 | 2020 | optimal design of building environment with hybrid geneti... | https://doi.org/10.1080/17512549.2019.1626764
+doc_65 | 2022 | optimal technology innovation of teaching buildings for p... | https://doi.org/10.1007/s13204-021-02066-1
+doc_66 | 2024 | optimal ventilation strategies for balancing carbon dioxi... | https://doi.org/10.3390/buildings14123822
+doc_67 | 2025 | optimization design of indoor thermal environment and air... | https://doi.org/10.3390/buildings15203718
+doc_68 | 2025 | optimizing airflow in double-skin facades: influence of v... | https://doi.org/10.1016/j.clet.2025.100980
+doc_69 | 2019 | optimizing hybrid ventilation control strategies toward z... | https://doi.org/10.3389/fbuil.2019.00097
+doc_70 | 2024 | optimization of energy use and academic performance for e... | https://doi.org/10.3390/app142311138
+doc_71 | 2022 | passive action strategies in schools: a scientific mappin... | https://doi.org/10.1016/j.jobe.2021.103598
+doc_72 | 2025 | passive climate control innovations in hunan courtyard dw... | https://doi.org/10.1016/j.asej.2025.103442
+doc_73 | 2024 | seasonal field study on thermal comfort in university cla... | https://doi.org/10.1177/1420326x241241530
+doc_74 | 2019 | set-up and evaluation of a virtual test bed for simulatin... | https://doi.org/10.1016/j.buildenv.2019.01.027
+doc_75 | 2021 | simulation of passive ventilation strategies towards indo... | https://doi.org/10.1016/j.jobe.2021.103108
+doc_76 | 2025 | statistical analysis of natural and mechanical ventilatio... | https://doi.org/10.1080/14733315.2024.2414663
+doc_77 | 2024 | students' thermal comfort and cognitive performance in fa... | https://doi.org/10.1016/j.buildenv.2024.111689
+doc_78 | 2022 | studies of ventilation and thermal comfort in different w... | https://doi.org/10.1016/j.jobe.2021.103675
+doc_79 | 2022 | study of natural ventilation and solar control strategies... | https://doi.org/10.3390/su14148243
+doc_80 | 2020 | study of natural ventilation and solar control strategies... | https://doi.org/10.3390/su12208687
+doc_81 | 2022 | students' thermal comfort and cognitive performance in fa... | https://doi.org/10.1177/1420326x221105628
+doc_82 | 2025 | ventilation benefit assessment of space organization desi... | https://doi.org/10.3390/app15105449
