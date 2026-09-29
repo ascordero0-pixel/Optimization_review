@@ -8,7 +8,7 @@ license:
   - MIT
   - CC-BY-4.0
 repository-code: "https://github.com/ascordero0-pixel/Optimization_review"
-# doi: 10.5281/zenodo.XXXXXXX   # uncomment after the first Zenodo release (concept DOI)
+doi: "10.5281/zenodo.23038937"
 authors:
   - family-names: "Sánchez Cordero"
     given-names: "Antonio"

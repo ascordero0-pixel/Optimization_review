@@ -1,5 +1,7 @@
 # Optimization_review
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23038937.svg)](https://doi.org/10.5281/zenodo.23038937)
+
 Reproducibility repository for the systematic review:
 
 > Sánchez Cordero, A., Gómez Melgar, S., & Andújar Márquez, J. M. *From design optimization to adaptive control: a systematic review of natural and mixed-mode ventilation for indoor air quality, thermal comfort and energy efficiency*. Manuscript in preparation.
@@ -109,8 +111,12 @@ install.packages(c("bibliometrix", "stringdist", "readr", "readxl", "dplyr",
 
 ## Citation
 
-Please cite the archived version via its Zenodo DOI (see `CITATION.cff`):
-`https://doi.org/10.5281/zenodo.XXXXXXX`
+Please cite the specific version used:
+
+- Version 1.0.0: https://doi.org/10.5281/zenodo.23038938
+- All versions (concept DOI, always resolves to the latest release): https://doi.org/10.5281/zenodo.23038937
+
+> Sánchez Cordero, A., Gómez Melgar, S., & Andújar Márquez, J. M. (2026). *Optimization_review: R pipeline and data for a systematic review of natural and mixed-mode ventilation for indoor air quality, thermal comfort and energy efficiency* (Version 1.0.0) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.23038938
 
 ## Contact
 
